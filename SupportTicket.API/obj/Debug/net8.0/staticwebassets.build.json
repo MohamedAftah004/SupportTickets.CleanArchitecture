@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XcefiCS6hDqSs9iak+HBMzZO0jVX9akoztZ9drwsAhg=",
+  "Source": "SupportTicket.API",
+  "BasePath": "_content/SupportTicket.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

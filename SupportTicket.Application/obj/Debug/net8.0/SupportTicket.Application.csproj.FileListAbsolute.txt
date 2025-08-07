@@ -1,0 +1,15 @@
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Application\bin\Debug\net8.0\SupportTicket.Application.deps.json
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Application\bin\Debug\net8.0\SupportTicket.Application.dll
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Application\bin\Debug\net8.0\SupportTicket.Application.pdb
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Application\bin\Debug\net8.0\SupportTicket.Domain.dll
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Application\bin\Debug\net8.0\SupportTicket.Domain.pdb
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Application\obj\Debug\net8.0\SupportTicket.Application.csproj.AssemblyReference.cache
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Application\obj\Debug\net8.0\SupportTicket.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Application\obj\Debug\net8.0\SupportTicket.Application.AssemblyInfoInputs.cache
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Application\obj\Debug\net8.0\SupportTicket.Application.AssemblyInfo.cs
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Application\obj\Debug\net8.0\SupportTicket.Application.csproj.CoreCompileInputs.cache
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Application\obj\Debug\net8.0\SupportT.35F8E8F4.Up2Date
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Application\obj\Debug\net8.0\SupportTicket.Application.dll
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Application\obj\Debug\net8.0\refint\SupportTicket.Application.dll
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Application\obj\Debug\net8.0\SupportTicket.Application.pdb
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Application\obj\Debug\net8.0\ref\SupportTicket.Application.dll

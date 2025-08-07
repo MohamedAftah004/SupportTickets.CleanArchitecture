@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E7CVGsWqzq4=",
+  "success": true,
+  "projectFilePath": "/Users/applebuy/Downloads/SupportTicketsProject/SupportTicket/SupportTicket.Domain/SupportTicket.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/applebuy/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/applebuy/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

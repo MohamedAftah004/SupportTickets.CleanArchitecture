@@ -1,0 +1,11 @@
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Domain\bin\Debug\net8.0\SupportTicket.Domain.deps.json
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Domain\bin\Debug\net8.0\SupportTicket.Domain.dll
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Domain\bin\Debug\net8.0\SupportTicket.Domain.pdb
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Domain\obj\Debug\net8.0\SupportTicket.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Domain\obj\Debug\net8.0\SupportTicket.Domain.AssemblyInfoInputs.cache
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Domain\obj\Debug\net8.0\SupportTicket.Domain.AssemblyInfo.cs
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Domain\obj\Debug\net8.0\SupportTicket.Domain.csproj.CoreCompileInputs.cache
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Domain\obj\Debug\net8.0\SupportTicket.Domain.dll
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Domain\obj\Debug\net8.0\refint\SupportTicket.Domain.dll
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Domain\obj\Debug\net8.0\SupportTicket.Domain.pdb
+C:\Users\applebuy\Desktop\Current Learning Folder\FULL CleanArch Projects\SupportTicketSystem\SupportTicket\SupportTicket.Domain\obj\Debug\net8.0\ref\SupportTicket.Domain.dll
